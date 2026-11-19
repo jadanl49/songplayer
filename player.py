@@ -1,4 +1,5 @@
 import pygame
+import os
 pygame.init()
 running = True
 import tkinter as tk
